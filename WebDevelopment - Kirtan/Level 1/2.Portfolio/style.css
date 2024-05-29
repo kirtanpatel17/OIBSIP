@@ -1,0 +1,152 @@
+li{
+    float: left;
+    text-align: left;
+    margin: 0px 23px;
+    list-style: none;
+}
+li a{
+    display:flex;
+    color:rgb(10, 10, 10);
+    text-align: center;
+    padding: 30px;
+    list-style: none;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+    color: rgb(6, 6, 6);
+}
+li a:hover{
+    color:purple;
+    background-color: black;
+}
+img{
+    display: flex;
+    width:30%;
+    margin: auto;
+    margin-right: 50px;
+    float: right;
+    height: 20%;
+    margin-top: 5px;
+}
+.bjg{ 
+    margin-left: 15%;
+    font-size: 200%;
+    margin-top: 30px;
+    color:rgb(48, 48, 48);
+
+}
+.hsse{
+    margin-left:0%;
+    font-size: 200%;
+    color: purple;
+}
+.color{
+    background-color: rgb(4, 4, 4);
+    
+}
+*{
+    
+    color: black;
+}
+.about{
+    text-align: center;
+}
+h2,h3{
+    font-size: 300%;
+}
+.logo{
+    width: 20px;
+    height: 20px;
+    color: black;
+    float: left;
+    margin-left: 2%;
+}
+.lastlogos_12{
+    height: 150px;
+    width: 150px;
+    border: black;
+    cursor: pointer;
+    height: fit-content;
+    align-self: center;
+    display: flex;
+    border-radius: 100;
+    mix-blend-mode: multiply;
+    justify-content: space-between;
+    align-self: center;
+
+
+    
+}
+.k{
+    float: right;
+
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    height: 70px;
+   list-style: none;
+   color: black;
+
+
+}
+body{
+    background-color: rgb(219, 218, 213);
+}
+.my-img{
+    margin-top: 0;
+    padding: 50px;
+}
+.hsg{
+    font-weight: bold;
+    font-size: 40px;
+    font-style: italic;
+    background-color: none;
+    margin-top: 20px;
+    color:purple;
+}
+.resum{
+    margin-left: 200px;
+    font-size: x-large;
+}
+.resume{
+    margin-left: 200px;
+    background-color: rgb(245, 241, 241);
+
+}
+.namec{
+    font-size: larger;
+    font-style: italic;
+    color:purple;
+}
+.jjj{
+    align-items: center;
+    margin-left: 180px;
+}
+.homehome{
+    margin-top: 80px;
+}
+.hhhh{
+margin-top: 0;
+}
+.bkl{
+    margin-left: 0%;
+    font-size: 200%;
+    margin-top: 30px;
+    color:rgb(48, 48, 48);
+}
+.hse{
+    font-size: 50px;
+    color: purple;
+}
+.kjn{
+    font-size: 20px;
+}

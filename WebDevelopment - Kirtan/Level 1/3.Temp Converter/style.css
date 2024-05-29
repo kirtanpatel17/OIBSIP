@@ -1,0 +1,52 @@
+body{
+    background-image: url(24260.jpg);
+    color: white;
+}
+.main{
+    margin-top: 150px;
+    margin-left: 230px;
+    margin-right: 230px;
+    background-color: rgb(1, 1, 1);
+    mix-blend-mode: multiply;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8%;
+    border-radius: 10px;
+   
+}
+.main:hover{
+    background-color: rgb(55, 53, 53);
+}
+.col{
+    display: flex;
+    text-align: center;
+}
+.col input{
+    width: 150px;
+    height: 30px;
+    border: white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    
+}
+.col input:hover{
+    background-color: rgb(215, 245, 246);
+}
+.col label{
+    font-size: 30px;
+    margin-bottom: 30px;
+    
+}
+.temp1{
+    font-size: 40px;
+}
+.option{
+margin-top: 5%;
+padding: 10px;
+display: flex;
+
+    
+}

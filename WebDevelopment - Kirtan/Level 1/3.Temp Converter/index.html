@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature converter</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="app.js">
+</head>
+
+<body>
+    <div class="main">
+        <form id="calcTemp" onsubmit="calculateTemp(); return false">
+            <label for="temp" class="temp1">Enter the temperature to convert</label>
+            <br>
+            <div class="option">
+                <div class="col">
+                    <label>Fahrenheit</label>
+                      <input type="number" name="temp" id="fahrenheit">
+                </div>
+                <br><br>
+                <div class="col">
+                    <label>Celsius</label>
+                      <input type="number" name="temp" id="celsius">
+                </div>
+                <br><br>
+                <div class="col">
+                    <label>kelvin</label>
+                      <input type="number" name="temp" id="kelvin">
+                </div>
+            </div>
+        </form>
+ 
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
